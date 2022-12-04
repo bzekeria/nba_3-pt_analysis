@@ -1,0 +1,25 @@
+column_name,column_label,description,data_type,constraint,unique_values,formula
+TEAM_ID,Team ID,The ID for each team,int,PRIMARY KEY,Yes,
+TEAM_CITY,Team City,The city for each team,str,NOT NULL,Yes,
+TEAM_NAME,Team Name,The official team name ,str,NOT NULL,Yes,
+YEAR,Year,The official NBA season,int,NOT NULL,Yes,
+GP,Games Played,The number of games played,int,NOT NULL,Yes,
+WINS,Wins,The number of games won by a player or team,int,NOT NULL,Yes,
+LOSSES,Losses,The number of games lost by a player or team,int,NOT NULL,Yes,
+WIN_PCT,Win Percentage,The percentage of games played that a player or team has won,float,NOT NULL,Yes,(WINS) / (GP)
+CONF_RANK,Conference Rank,"The rank of each team by their respective conference (Eastern Conference, Western Conference)",int,NOT NULL,Yes,
+DIV_RANK,Division Rank,The rank of each team by their respective division (3 divisions per conference),int,NOT NULL,Yes,
+PO_WINS,Playoff Wins,The number of playoff wins,int,NOT NULL,Yes,
+PO_LOSSES,Playoff Losses,The number of playoff losses,int,NOT NULL,Yes,
+NBA_FINALS_APPEARENCE,NBA Finals Appearance,"A categorical indicator of whether the team appeared in the finals (""N/A"", ""LEAGUE CHAMPION, ""FINALS APPEARANCE"")",str,NOT NULL,Yes,
+FGM,Field Goals Made,The number of field goals that a player or team has made. This includes both 2 pointers and 3 pointers,int,NOT NULL,Yes,
+FGA,Field Goals Attempted,The number of field goals that a player or team has attempted. This includes both 2 pointers and 3 pointers,int,NOT NULL,Yes,
+FG_PCT,Field Goal Percentage,The percentage of field goal attempts that a player makes. This includes both 2 pointers and 3 pointers,float,NOT NULL,Yes,(FGM) / (FGA)
+FG3M,Field Goal Percentage,The number of field goals that a player or team has made. This includes 3 pointers,int,NOT NULL,Yes,
+FG3A,Field Goal Attempted ,The number of field goals that a player or team has attempted. This includes 3 pointers,int,NOT NULL,Yes,
+FG3_PCT,Field Goal Percentage,The percentage of field goal attempts that a player makes. This includes 3 pointers,float,NOT NULL,Yes,(FG3M) / (FG3A)
+FTM,Free Throws Made,The number of free throws that a player or team has made,int,NOT NULL,Yes,
+FTA,Free Throws Attempted,The number of free throws that a player or team has attempted,int,NOT NULL,Yes,
+FT_PCT,Free Throws Percentage,The percentage of free throw attempts that a player or team has made,float,NOT NULL,Yes,(FTM) / (FTA)
+PTS,Points,The number of points scored,int,NOT NULL,Yes,
+PTS_RANK,Points Rank,The rank of each team by total points per season,int,NOT NULL,Yes,
