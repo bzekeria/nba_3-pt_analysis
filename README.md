@@ -46,6 +46,6 @@ Note:
 
 Contributors: 
   - [Jackson Conte](https://github.com/jacksonconte)
-  - [Andrew Nguyen]
-  - [Anish Rajeshkumar]
+  - [Andrew Nguyen] **add github link**
+  - [Anish Rajeshkumar] **add github link**
   - [Baraa Zekeria](https://github.com/bzekeria)
