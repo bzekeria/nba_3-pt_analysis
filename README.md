@@ -34,8 +34,8 @@ Also, you are free and encouraged to share this project after the course and to 
 ├── DataCheckpointGroup_018-Fa22.ipynb
 ├── EDACheckpointGroup_018-Fa22.ipynb
 ├── FinalProjectGroup_018-Fa22.ipynb
+├── nba_shots_analysis_018-Fa22.pdf
 ├── ProjectProposalGroup_018-Fa22.ipynb
-├── change_slides_name.pdf
 └── README.md
 ```
 
