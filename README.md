@@ -39,6 +39,9 @@ Also, you are free and encouraged to share this project after the course and to 
 └── README.md
 ```
 
+*Note: If the ```FinalProjectGroup_018-Fa22.ipynb``` does not render, click [here] (https://nbviewer.org)*
+change link once the official final notebook is published
+
 Contributors: 
   - [Jackson Conte](https://github.com/jacksonconte)
   - [Andrew Nguyen]
