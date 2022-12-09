@@ -23,7 +23,7 @@ Also, you are free and encouraged to share this project after the course and to 
 
 *[COGS 108- Data Science in Practice](https://github.com/COGS108) Fall 2022 Project*
 
-*Insert Overview here*
+*Include Overview here*
 
 ```bash
 ├── data
