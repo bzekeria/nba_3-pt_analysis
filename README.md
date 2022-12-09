@@ -19,11 +19,11 @@ This is *your* repo. You are free to manage the repo as you see fit, edit this R
 
 Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!-->
 
-**Include Title Here**
+**The Weight of the 3-Pointer in the Modern NBA**
 
 *[COGS 108- Data Science in Practice](https://github.com/COGS108) Fall 2022 Project*
 
-Team Members: [Jackson Conte](https://github.com/jacksonconte), [Andrew Nguyen] **add github link**, [Anish Rajeshkumar] **add github link**, [Baraa Zekeria](https://github.com/bzekeria)
+Team Members: [Jackson Conte](https://github.com/jacksonconte), [Andrew Nguyen](https://github.com/3ndrew123/), [Anish Rajeshkumar] **add github link**, [Baraa Zekeria](https://github.com/bzekeria)
 
 
 *For our project, we decided to explore whether or not the proportion of 3 point shots overall affected playoff success for NBA teams in the last 20 years. To do so, we pulled information from the NBA api from past games of every NBA Team and exploring trends for 2 point field goals and 3 point field goals. For our data analysis, we decided to quantify playoff success and separate our data set to perform on a Kendall-Tau Test on. In doing so, we could see if our hypothesis stands true for one era or multiple eras.*
