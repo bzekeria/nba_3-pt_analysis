@@ -41,8 +41,8 @@ Also, you are free and encouraged to share this project after the course and to 
 
 Note:
   - The ```FinalProjectGroup_018-Fa22.ipynb``` is the updated version of all of the ```XXXCheckpointGroup_018_Fa22.ipynb``` notebook files compiled together
-  - If the ```FinalProjectGroup_018-Fa22.ipynb``` does not render, click [here](https://nbviewer.org)*
-change link once the official final notebook is published
+  - If the ```FinalProjectGroup_018-Fa22.ipynb``` does not render, click [here](https://nbviewer.org)
+ **change link once the official final notebook is published**
 
 Contributors: 
   - [Jackson Conte](https://github.com/jacksonconte)
