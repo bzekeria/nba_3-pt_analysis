@@ -39,9 +39,9 @@ Team Members: [Jackson Conte](https://github.com/jacksonconte), [Andrew Nguyen](
 ├── DataCheckpointGroup_018-Fa22.ipynb
 ├── EDACheckpointGroup_018-Fa22.ipynb
 ├── FinalProjectGroup_018-Fa22.ipynb
-├── nba_shots_analysis_018-Fa22.pdf
+├── README.md
 ├── ProjectProposalGroup_018-Fa22.ipynb
-└── README.md
+└── nba_shots_analysis_018-Fa22.pdf
 ```
 
 Note:
